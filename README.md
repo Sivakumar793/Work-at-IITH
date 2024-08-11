@@ -1,5 +1,6 @@
 # Work-at-IITH
-Currently, I am employed at the IIT Hyderabad (Research & Development) Department, where I have
+Software Engineer
+Currently, I'm working as a Software Engineer at the IIT Hyderabad (Research & Development) Department, where I have
 gained substantial expertise in software development methodologies and have developed a strong
 acumen for delivering efficient and scalable solutions. My primary project involves the GST (Goods
 and Service Tax) initiative, where my responsibilities include:
