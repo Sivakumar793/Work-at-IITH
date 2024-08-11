@@ -18,3 +18,12 @@ dashboards.
 Complex Queries and Reporting:
 I excel in crafting intricate PostgreSQL queries for data extraction and analysis, and possess strong
 expertise in Excel for data manipulation and reporting.
+
+
+My technical proficiency encompasses:
+Languages: Proficient in Java and C; Familiar with Python and C++
+Web Technologies: HTML, CSS, JavaScript, Spring Boot
+Database Technologies: SQL, MySQL, PostgreSQL
+Tools: Eclipse, VS Code, MySQL Workbench, pgAdmin4
+Additional Skills: Problem-solving, Data Structures, Software Development Life Cycle (SDLC)
+
